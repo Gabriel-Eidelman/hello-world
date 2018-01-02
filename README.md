@@ -1,2 +1,6 @@
 # hello-world
-My repository to figure out GitHub
+
+Hello all,
+
+My name is Gabriel and I love to play chess. 
+I am also okay at soccer, guitar and ukelele.
